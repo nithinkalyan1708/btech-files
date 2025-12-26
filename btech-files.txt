@@ -1,0 +1,5 @@
+btech-it
+btech-cse
+btech-ece
+btech-civil
+btech-mechanical
